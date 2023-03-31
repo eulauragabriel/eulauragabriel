@@ -16,4 +16,3 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulauragabriel&layout=compact&langs_count=16&theme=jolly"/>
 </div>
 
-<b>software  development student</b>
