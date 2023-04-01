@@ -27,6 +27,6 @@ jobs:
 - name: Push changes
     uses: ad-m/github-push-action@master
     with:
-      github_token: ${{ cobrinha }}
+      github_token: ${{ secrets.cobrinha }}
       branch: refs/pull/42/merge
       directory: .
