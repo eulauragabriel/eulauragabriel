@@ -31,6 +31,5 @@
    <img align="right" src="ghost.gif" height=75px/>
 </div>
   
-  ##
-  
+
 ![Snake animation](https://github.com/eulauragabriel/eulauragabriel/blob/output/github-contribution-grid-snake.svg)
