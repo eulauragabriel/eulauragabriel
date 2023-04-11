@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://beacons.ai/eulauragabriel">
-  <img height="150cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eulauragabriel&theme=synthwave&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="150cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eulauragabriel&layout=compact&langs_count=16&theme=synthwave"/>
+  <img height="130cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eulauragabriel&theme=synthwave&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img height="130cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eulauragabriel&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
   
