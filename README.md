@@ -31,9 +31,5 @@
   <a href="https://www.linkedin.com/in/eulauragabriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=purple" target="_blank"></a> 
    <img align="right" src="ghost.gif" height=75px/>
 </div>
-  
- ## Total de Visitas no perfil - Total Profile Views :detective: <br>
- <p align="center"> 
-   <!-- <img alingn="center" src="https://profile-counter.glitch.me/eulauragabriel/count.svg" /> !-->
 
 ![Snake animation](https://github.com/eulauragabriel/eulauragabriel/blob/output/github-contribution-grid-snake.svg)
