@@ -32,5 +32,8 @@
    <img align="right" src="ghost.gif" height=75px/>
 </div>
   
+ ## Total de Visitas no perfil - Total Profile Views :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/eulauragabriel/count.svg" />
 
 ![Snake animation](https://github.com/eulauragabriel/eulauragabriel/blob/output/github-contribution-grid-snake.svg)
