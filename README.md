@@ -32,4 +32,3 @@
    <img align="right" src="ghost.gif" height=75px/>
 </div>
 
-![snake gif](https://github.com/eulauragabriel/eulauragabriel/blob/output/github-contribution-grid-snake.gif)
