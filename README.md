@@ -31,6 +31,5 @@
   <a href="https://www.linkedin.com/in/eulauragabriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=purple" target="_blank"></a> 
    <img align="right" src="ghost.gif" height=75px/>
 </div>
-  
 
-![Snake animation](https://github.com/eulauragabriel/eulauragabriel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/eulauragabriel/eulauragabriel/blob/output/github-contribution-grid-snake.gif)
