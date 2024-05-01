@@ -42,7 +42,7 @@
 <b>contact info ✨</b>
 <div>
   <a href="https://instagram.com/eulauragabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=75c775" target="_blank"></a>
-<a href = "mailto:eulauragabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=75c775" target="_blank"></a>
+  <a href = "mailto:eulauragabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=75c775" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eulauragabriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=75c775" target="_blank"></a> 
    <img align="right" src="a4a6b0a531328e5d9c984a793fa1ac04.gif" height=100px/>
 </div>
