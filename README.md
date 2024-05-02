@@ -2,7 +2,7 @@
 
 <img src="c76ea5d3ec499da3a9a9ae56f0b7bf32.gif" alt="Gif" width="650px"/>
 
-# 
+#
 
 <b>software  development student</b>
 <b>currently learning ✨</b>
@@ -25,6 +25,10 @@
  
   
 </div>
+
+##
+
+<b>scolarship student developing a research using image processing techniques and artificial intelligence at INPE ✨</b>
 
 ##
 
