@@ -5,7 +5,7 @@
 
 #
 
-<b>software  development student</b>
+<b>i'm a software  development student</b>
 <b>currently learning ✨</b>
 
 <div>
