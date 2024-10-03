@@ -46,7 +46,7 @@
 
 ##
 
-<b>scolarship student developing a research using image processing techniques and artificial intelligence at INPE ✨</b>
+<b>developed a research as a scolarship student using image processing techniques and artificial intelligence on pattern recognition on remote sensing at INPE ✨</b>
 
 ##
 
