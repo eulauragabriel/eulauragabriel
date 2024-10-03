@@ -46,7 +46,7 @@
 
 ##
 
-<b>developed a research as a scolarship student using image processing techniques and artificial intelligence on pattern recognition on remote sensing at INPE ✨</b>
+<b>i developed a project and research as a scholarship student using image processing and artificial intelligence techniques for pattern recognition in remote sensing at INPE, you can click [here](http://mtc-m21d.sid.inpe.br/col/sid.inpe.br/mtc-m21d/2024/08.13.14.55/doc/thisInformationItemHomePage.html) to check out my report! ✨</b>
 
 ##
 
