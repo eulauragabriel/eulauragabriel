@@ -46,7 +46,7 @@
 
 ##
 
-<b>i developed a project and research as a scholarship student using image processing and artificial intelligence techniques for pattern recognition in remote sensing at INPE, you can click [here](http://mtc-m21d.sid.inpe.br/col/sid.inpe.br/mtc-m21d/2024/08.13.14.55/doc/thisInformationItemHomePage.html) to check out my report! ✨</b>
+<b>i've developed a project and research as a scholarship student using image processing and artificial intelligence techniques for pattern recognition in remote sensing at INPE, you can click [here](http://mtc-m21d.sid.inpe.br/col/sid.inpe.br/mtc-m21d/2024/08.13.14.55/doc/thisInformationItemHomePage.html) to check out my report! ✨</b>
 
 ##
 
@@ -61,7 +61,7 @@
 
 ##
 
-<b>contact info ✨</b>
+<b> click [here](https://eulauragabrielportfolio.vercel.app/) to check out my portfolio! ✨ </b>
 <div>
   <a href="https://instagram.com/eulauragabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=75c775" target="_blank"></a>
   <a href = "mailto:eulauragabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=75c775" target="_blank"></a>
